@@ -31,11 +31,11 @@ Du skal nu "fiske" id'et ud af url'en og fetche den json-fil som kun indeholder 
 Få funktionaliteten med at markere en favorit til at virke. Hvis du markerer en destination som favorit, skal hjertet være rødt (eller en anden farve efter dit valg) på _både_ listevisning _og_ detaljevisning. Du skal måske undersøge lidt på forhånd om LocalStorage eller cookies.
 
 ### **Aflevering**: 
-Du afleverer ved at lave et **pull-request** hvor du sætter din lærer på som *reviewer*.
+Du afleverer ved at uploade et link til dit GitHub repository på MitRTS.
 
 ### **Feedback**: 
-Din lærer kigger dit pull-request igennem, og hvis du blot får et godkendt/approved tilbage betyder det, at du har løst opgaven lige som det var forventet. 
+Din lærer kigger din aflevering igennem, og hvis du blot får et "godkendt" tilbage på MitRTS betyder det, at du har løst opgaven lige som det var forventet. 
 
-Hvis din lærer sender et godkendt/approved tilbage, men også tilknytter en kommentar, er det måske for at gøre opmærksom på en detalje du let kan forbedre. Du behøver ikke at lave en ny pull request.
+Hvis din lærer sender et "Godkendt" tilbage, men også tilknytter en kommentar, er det måske for at gøre opmærksom på en detalje du let kan forbedre. Du behøver ikke at aflevere igen.
 
-Hvis du får en anmodning tilbage fra din lærer om at udføre ændringer, skal du implementere ændringerne/løse problemet og lave en ny pull-request. 
+Hvis du får et "Ikke godkendt" tilbage fra din lærer med en kommentar om at udføre ændringer, skal du implementere ændringerne/løse problemet og lave en ny aflevering. 
